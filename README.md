@@ -1,4 +1,4 @@
-# FinTab-Llava
+# FinTab-LLaVA
 - Last updated 2024.10.12
 - Dataset and README Update coming soon
 
