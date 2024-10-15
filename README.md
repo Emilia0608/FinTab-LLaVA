@@ -4,8 +4,8 @@
 
 <!-- #region -->
 ## Model
-- The FinTab-Llava model is built on the multimodal architectures of [Llava 1.5](https://github.com/haotian-liu/LLaVA) and [Table-Llava](https://github.com/SpursGoZmy/Table-LLaVA).
-- We fine-tuned Table-Llava using the Finance Table Multimodal Dataset (FinTMD).
+- The FinTab-LLaVA model is built on the multimodal architectures of [LLaVA 1.5](https://github.com/haotian-liu/LLaVA) and [Table-LLaVA](https://github.com/SpursGoZmy/Table-LLaVA).
+- We fine-tuned Table-LLaVA using the Finance Table Multimodal Dataset (FinTMD).
 - Additionally, we fine-tuned the model using knowledge domain training on math tasks and financial text data.
 
 
