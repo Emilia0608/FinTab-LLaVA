@@ -1,5 +1,6 @@
 # FinTab-LLaVA
-- Last updated 2024.10.12
+- Last updated 2024.10.15
+- The code has been updated! The tutorial will be updated soon
 - Dataset and README Update coming soon
 
 <!-- #region -->
