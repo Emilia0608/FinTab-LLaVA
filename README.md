@@ -1,4 +1,4 @@
-# FinTab-LLaVA
+# jj-LLaVA
 - Last updated 2024.12.02
 - The code has been updated! The tutorial will be updated soon.
 - We will upload dataset and new code soon, becuase of conference anonymous issue we will tentativly call model as "jj-LLAVA".
