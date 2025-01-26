@@ -1,8 +1,6 @@
 LICENSE
 README.md
 pyproject.toml
-MMTab-eval_evaluation/metric.py
-MMTab-eval_evaluation/parallel.py
 llava/__init__.py
 llava/constants.py
 llava/conversation.py
@@ -27,7 +25,6 @@ llava/eval/model_qa.py
 llava/eval/model_vqa.py
 llava/eval/model_vqa_loader.py
 llava/eval/model_vqa_mmbench.py
-llava/eval/model_vqa_qbench.py
 llava/eval/model_vqa_science.py
 llava/eval/qa_baseline_gpt35.py
 llava/eval/run_llava.py
@@ -40,18 +37,9 @@ llava/model/llava_arch.py
 llava/model/make_delta.py
 llava/model/utils.py
 llava/model/language_model/llava_llama.py
+llava/model/language_model/llava_mistral.py
 llava/model/language_model/llava_mpt.py
-llava/model/language_model/mpt/adapt_tokenizer.py
-llava/model/language_model/mpt/attention.py
-llava/model/language_model/mpt/blocks.py
-llava/model/language_model/mpt/configuration_mpt.py
-llava/model/language_model/mpt/custom_embedding.py
-llava/model/language_model/mpt/flash_attn_triton.py
-llava/model/language_model/mpt/hf_prefixlm_converter.py
-llava/model/language_model/mpt/meta_init_context.py
-llava/model/language_model/mpt/modeling_mpt.py
-llava/model/language_model/mpt/norm.py
-llava/model/language_model/mpt/param_init_fns.py
+llava/model/language_model/llava_phi3.py
 llava/model/multimodal_encoder/builder.py
 llava/model/multimodal_encoder/clip_encoder.py
 llava/model/multimodal_projector/builder.py
@@ -61,6 +49,7 @@ llava/serve/controller.py
 llava/serve/gradio_web_server.py
 llava/serve/model_worker.py
 llava/serve/register_worker.py
+llava/serve/sglang_worker.py
 llava/serve/test_message.py
 llava/train/llama_flash_attn_monkey_patch.py
 llava/train/llama_xformers_attn_monkey_patch.py

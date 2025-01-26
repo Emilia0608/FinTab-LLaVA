@@ -1,8 +1,2 @@
-LLaVA-Finetune
-LLaVA-Pretrain
-MMTab-eval_evaluation
-checkpoints
+images
 llava
-logs
-pretrained_mm_projector
-readme_images
